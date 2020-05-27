@@ -1,0 +1,8 @@
+db:
+  type: 'postgres'
+  host: 'db'
+  port: '5432'
+  database: 'medgrupo-desafio-crud'
+  username: 'user'
+  password: 'password'
+  synchronize: true,
