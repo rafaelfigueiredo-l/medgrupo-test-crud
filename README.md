@@ -47,6 +47,12 @@ cd app && yarn install
 docker-compose up
 ```
 
+You can test this app with [POSTMAN](https://www.postman.com/) at:
+http://localhost:5061
+
+You also can manage this db with [PGADMIN](https://www.pgadmin.org/) at:
+http://localhost:5062
+
 # How to run tests
 
 yarn:
